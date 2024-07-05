@@ -131,18 +131,18 @@ This project has existed since June 2019. Almost every week I put +10 hours into
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/NuberuSH">
-            <img src="https://avatars.githubusercontent.com/u/45773746?v=4" width="50;" alt="NuberuSH"/>
+        <a href="https://github.com/Me1onSeed">
+            <img src="https://avatars.githubusercontent.com/u/81557800?v=4" width="50;" alt="Me1onSeed"/>
             <br />
-            <sub><b>Dani Tallón</b></sub>
+            <sub><b>瓜子</b></sub>
         </a>
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/kkkingim">
-            <img src="https://avatars.githubusercontent.com/u/22095496?v=4" width="50;" alt="kkkingim"/>
+        <a href="https://github.com/NuberuSH">
+            <img src="https://avatars.githubusercontent.com/u/45773746?v=4" width="50;" alt="NuberuSH"/>
             <br />
-            <sub><b>Vagitus</b></sub>
+            <sub><b>Dani Tallón</b></sub>
         </a>
     </td>
     <td align="center">
@@ -153,10 +153,24 @@ This project has existed since June 2019. Almost every week I put +10 hours into
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Me1onSeed">
-            <img src="https://avatars.githubusercontent.com/u/81557800?v=4" width="50;" alt="Me1onSeed"/>
+        <a href="https://github.com/kkkingim">
+            <img src="https://avatars.githubusercontent.com/u/22095496?v=4" width="50;" alt="kkkingim"/>
             <br />
-            <sub><b>瓜子</b></sub>
+            <sub><b>Vagitus</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/taco0603">
+            <img src="https://avatars.githubusercontent.com/u/19679024?v=4" width="50;" alt="taco0603"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Kukkimonsuta">
+            <img src="https://avatars.githubusercontent.com/u/737093?v=4" width="50;" alt="Kukkimonsuta"/>
+            <br />
+            <sub><b>Lukáš Novotný</b></sub>
         </a>
     </td>
     <td align="center">
@@ -165,12 +179,41 @@ This project has existed since June 2019. Almost every week I put +10 hours into
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
-        <a href="https://github.com/taco0603">
-            <img src="https://avatars.githubusercontent.com/u/19679024?v=4" width="50;" alt="taco0603"/>
+        <a href="https://github.com/lx78WyY0J5">
+            <img src="https://avatars.githubusercontent.com/u/84735589?v=4" width="50;" alt="lx78WyY0J5"/>
             <br />
             <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/devsurimlee">
+            <img src="https://avatars.githubusercontent.com/u/53467957?v=4" width="50;" alt="devsurimlee"/>
+            <br />
+            <sub><b>Surim Lee</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Rot4tion">
+            <img src="https://avatars.githubusercontent.com/u/56016610?v=4" width="50;" alt="Rot4tion"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ivanmaxlogiudice">
+            <img src="https://avatars.githubusercontent.com/u/3275920?v=4" width="50;" alt="ivanmaxlogiudice"/>
+            <br />
+            <sub><b>Iván Máximiliano, Lo Giudice</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/acelan">
+            <img src="https://avatars.githubusercontent.com/u/71646?v=4" width="50;" alt="acelan"/>
+            <br />
+            <sub><b>AceLan Kao</b></sub>
         </a>
     </td>
     <td align="center">
@@ -182,38 +225,17 @@ This project has existed since June 2019. Almost every week I put +10 hours into
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/acelan">
-            <img src="https://avatars.githubusercontent.com/u/71646?v=4" width="50;" alt="acelan"/>
-            <br />
-            <sub><b>AceLan Kao</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ivanmaxlogiudice">
-            <img src="https://avatars.githubusercontent.com/u/3275920?v=4" width="50;" alt="ivanmaxlogiudice"/>
-            <br />
-            <sub><b>Iván Máximiliano, Lo Giudice</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/devsurimlee">
-            <img src="https://avatars.githubusercontent.com/u/53467957?v=4" width="50;" alt="devsurimlee"/>
-            <br />
-            <sub><b>Surim Lee</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lx78WyY0J5">
-            <img src="https://avatars.githubusercontent.com/u/84735589?v=4" width="50;" alt="lx78WyY0J5"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/rdayltx">
             <img src="https://avatars.githubusercontent.com/u/82792422?v=4" width="50;" alt="rdayltx"/>
             <br />
             <sub><b>DayLight</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/DragonTaki">
+            <img src="https://avatars.githubusercontent.com/u/22636910?v=4" width="50;" alt="DragonTaki"/>
+            <br />
+            <sub><b>Dragon Taki</b></sub>
         </a>
     </td>
     <td align="center">
@@ -222,13 +244,12 @@ This project has existed since June 2019. Almost every week I put +10 hours into
             <br />
             <sub><b>Josh Stout</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
-        <a href="https://github.com/Kukkimonsuta">
-            <img src="https://avatars.githubusercontent.com/u/737093?v=4" width="50;" alt="Kukkimonsuta"/>
+        <a href="https://github.com/NoFr1ends">
+            <img src="https://avatars.githubusercontent.com/u/6075580?v=4" width="50;" alt="NoFr1ends"/>
             <br />
-            <sub><b>Lukáš Novotný</b></sub>
+            <sub><b>Lynx</b></sub>
         </a>
     </td>
     <td align="center">
@@ -244,7 +265,8 @@ This project has existed since June 2019. Almost every week I put +10 hours into
             <br />
             <sub><b>Redmeier</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mleen4">
             <img src="https://avatars.githubusercontent.com/u/63968148?v=4" width="50;" alt="mleen4"/>
